@@ -1,0 +1,19 @@
+{
+  "alerts": {
+    "instrument": "Instrument",
+    "kind": "Kind",
+    "thresholdPrice": "Price threshold",
+    "thresholdPercent": "Percent threshold",
+    "prev": "Previous",
+    "next": "Next",
+    "pageOf": "Page {page} of {pages}",
+    "deleted": "Alert deleted",
+    "deleteDescription": "This cannot be undone."
+  },
+  "notifications": {
+    "default": "New notification",
+    "prev": "Previous",
+    "next": "Next",
+    "pageOf": "Page {page} of {pages}"
+  }
+}

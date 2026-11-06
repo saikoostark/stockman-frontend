@@ -1,0 +1,25 @@
+{
+  "audit": {
+    "actionPlaceholder": "Filtrar por acción",
+    "targetTypePlaceholder": "Filtrar por tipo de destino",
+    "system": "Sistema",
+    "pageXofY": "Página {page} de {pages}",
+    "previous": "Anterior",
+    "next": "Siguiente"
+  },
+  "admin": {
+    "email": "Correo electrónico",
+    "locale": "Idioma",
+    "authorizationRevision": "Revisión",
+    "inactive": "Inactivo",
+    "groupCreated": "Grupo creado",
+    "groupUpdated": "Grupo actualizado",
+    "membershipUpdated": "Membresía actualizada",
+    "scopeConstraints": "Restricciones de alcance",
+    "scopeCount": "{count} alcances",
+    "denyCount": "{count} denegados",
+    "pageXofY": "Página {page} de {pages}",
+    "previous": "Anterior",
+    "next": "Siguiente"
+  }
+}

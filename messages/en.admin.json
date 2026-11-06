@@ -1,0 +1,25 @@
+{
+  "audit": {
+    "actionPlaceholder": "Filter by action",
+    "targetTypePlaceholder": "Filter by target type",
+    "system": "System",
+    "pageXofY": "Page {page} of {pages}",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "admin": {
+    "email": "Email",
+    "locale": "Locale",
+    "authorizationRevision": "Revision",
+    "inactive": "Inactive",
+    "groupCreated": "Group created",
+    "groupUpdated": "Group updated",
+    "membershipUpdated": "Membership updated",
+    "scopeConstraints": "Scope constraints",
+    "scopeCount": "{count} scopes",
+    "denyCount": "{count} denied",
+    "pageXofY": "Page {page} of {pages}",
+    "previous": "Previous",
+    "next": "Next"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "alerts": {
+    "instrument": "Instrument",
+    "kind": "Art",
+    "thresholdPrice": "Preisschwelle",
+    "thresholdPercent": "Prozentschwelle",
+    "prev": "Zurück",
+    "next": "Weiter",
+    "pageOf": "Seite {page} von {pages}",
+    "deleted": "Alarm gelöscht",
+    "deleteDescription": "Dies kann nicht rückgängig gemacht werden."
+  },
+  "notifications": {
+    "default": "Neue Benachrichtigung",
+    "prev": "Zurück",
+    "next": "Weiter",
+    "pageOf": "Seite {page} von {pages}"
+  }
+}

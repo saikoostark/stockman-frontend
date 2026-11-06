@@ -1,0 +1,19 @@
+{
+  "alerts": {
+    "instrument": "Instrumento",
+    "kind": "Tipo",
+    "thresholdPrice": "Umbral de precio",
+    "thresholdPercent": "Umbral porcentual",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "pageOf": "Página {page} de {pages}",
+    "deleted": "Alerta eliminada",
+    "deleteDescription": "Esta acción no se puede deshacer."
+  },
+  "notifications": {
+    "default": "Nueva notificación",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "pageOf": "Página {page} de {pages}"
+  }
+}

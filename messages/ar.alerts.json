@@ -1,0 +1,19 @@
+{
+  "alerts": {
+    "instrument": "الأداة",
+    "kind": "النوع",
+    "thresholdPrice": "حد السعر",
+    "thresholdPercent": "حد النسبة المئوية",
+    "prev": "السابق",
+    "next": "التالي",
+    "pageOf": "صفحة {page} من {pages}",
+    "deleted": "تم حذف التنبيه",
+    "deleteDescription": "لا يمكن التراجع عن هذا الإجراء."
+  },
+  "notifications": {
+    "default": "إشعار جديد",
+    "prev": "السابق",
+    "next": "التالي",
+    "pageOf": "صفحة {page} من {pages}"
+  }
+}

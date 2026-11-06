@@ -1,0 +1,30 @@
+{
+  "markets": {
+    "allMarkets": "Alle Märkte",
+    "allCurrencies": "Alle Währungen",
+    "availability": {
+      "AVAILABLE": "Verfügbar",
+      "UNAVAILABLE": "Nicht verfügbar",
+      "BACKOFF": "Neuer Versuch"
+    },
+    "provider": "Anbieter",
+    "venueTimezone": "Börsenzeitzone",
+    "receivedTime": "Empfangen um",
+    "entitlementVerified": "Berechtigung bestätigt",
+    "lastSuccessAt": "Letzter Erfolg",
+    "retryAt": "Nächster Versuch",
+    "cadence": "Kadenz",
+    "historyLimit": "Verlaufslimit",
+    "message": "Meldung",
+    "observations": "Beobachtungen",
+    "candles": "Kerzen",
+    "catalogTitle": "Katalog",
+    "enabled": "Aktiviert",
+    "watched": "Beobachtet",
+    "quote": "Letzter Kurs",
+    "noProviders": "Keine Anbieter gefunden",
+    "previousPage": "Zurück",
+    "nextPage": "Weiter",
+    "pageOf": "Seite {page} von {total}"
+  }
+}

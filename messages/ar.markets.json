@@ -1,0 +1,30 @@
+{
+  "markets": {
+    "allMarkets": "جميع الأسواق",
+    "allCurrencies": "جميع العملات",
+    "availability": {
+      "AVAILABLE": "متاح",
+      "UNAVAILABLE": "غير متاح",
+      "BACKOFF": "إعادة المحاولة"
+    },
+    "provider": "المزوّد",
+    "venueTimezone": "المنطقة الزمنية للبورصة",
+    "receivedTime": "وقت الاستلام",
+    "entitlementVerified": "تم التحقق من الاستحقاق",
+    "lastSuccessAt": "آخر نجاح",
+    "retryAt": "إعادة المحاولة التالية",
+    "cadence": "الدورية",
+    "historyLimit": "حد السجل",
+    "message": "رسالة",
+    "observations": "الملاحظات",
+    "candles": "الشموع",
+    "catalogTitle": "الكتالوج",
+    "enabled": "مفعّل",
+    "watched": "في قائمة المتابعة",
+    "quote": "آخر سعر",
+    "noProviders": "لا توجد مزوّدات بيانات",
+    "previousPage": "السابق",
+    "nextPage": "التالي",
+    "pageOf": "الصفحة {page} من {total}"
+  }
+}

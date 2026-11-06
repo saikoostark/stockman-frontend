@@ -1,0 +1,25 @@
+{
+  "audit": {
+    "actionPlaceholder": "تصفية حسب الإجراء",
+    "targetTypePlaceholder": "تصفية حسب نوع الهدف",
+    "system": "النظام",
+    "pageXofY": "صفحة {page} من {pages}",
+    "previous": "السابق",
+    "next": "التالي"
+  },
+  "admin": {
+    "email": "البريد الإلكتروني",
+    "locale": "اللغة",
+    "authorizationRevision": "المراجعة",
+    "inactive": "غير نشط",
+    "groupCreated": "تم إنشاء المجموعة",
+    "groupUpdated": "تم تحديث المجموعة",
+    "membershipUpdated": "تم تحديث العضوية",
+    "scopeConstraints": "قيود النطاق",
+    "scopeCount": "{count} نطاقات",
+    "denyCount": "{count} محظور",
+    "pageXofY": "صفحة {page} من {pages}",
+    "previous": "السابق",
+    "next": "التالي"
+  }
+}

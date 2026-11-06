@@ -1,0 +1,25 @@
+{
+  "audit": {
+    "actionPlaceholder": "Nach Aktion filtern",
+    "targetTypePlaceholder": "Nach Zieltyp filtern",
+    "system": "System",
+    "pageXofY": "Seite {page} von {pages}",
+    "previous": "Zurück",
+    "next": "Weiter"
+  },
+  "admin": {
+    "email": "E-Mail",
+    "locale": "Sprache",
+    "authorizationRevision": "Revision",
+    "inactive": "Inaktiv",
+    "groupCreated": "Gruppe erstellt",
+    "groupUpdated": "Gruppe aktualisiert",
+    "membershipUpdated": "Mitgliedschaft aktualisiert",
+    "scopeConstraints": "Bereichseinschränkungen",
+    "scopeCount": "{count} Bereiche",
+    "denyCount": "{count} verweigert",
+    "pageXofY": "Seite {page} von {pages}",
+    "previous": "Zurück",
+    "next": "Weiter"
+  }
+}

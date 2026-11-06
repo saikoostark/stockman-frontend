@@ -1,0 +1,30 @@
+{
+  "markets": {
+    "allMarkets": "All markets",
+    "allCurrencies": "All currencies",
+    "availability": {
+      "AVAILABLE": "Available",
+      "UNAVAILABLE": "Unavailable",
+      "BACKOFF": "Retrying"
+    },
+    "provider": "Provider",
+    "venueTimezone": "Venue timezone",
+    "receivedTime": "Received at",
+    "entitlementVerified": "Entitlement verified",
+    "lastSuccessAt": "Last success",
+    "retryAt": "Next retry",
+    "cadence": "Cadence",
+    "historyLimit": "History limit",
+    "message": "Message",
+    "observations": "Observations",
+    "candles": "Candles",
+    "catalogTitle": "Catalog",
+    "enabled": "Enabled",
+    "watched": "Watched",
+    "quote": "Latest quote",
+    "noProviders": "No providers found",
+    "previousPage": "Previous",
+    "nextPage": "Next",
+    "pageOf": "Page {page} of {total}"
+  }
+}
