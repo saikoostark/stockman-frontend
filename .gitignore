@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.next/
+out/
+coverage/
+.playwright/
+test-results/
+playwright-report/
+*.tsbuildinfo
+next-env.d.ts
+AGENTS.md
